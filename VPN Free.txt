@@ -1,3 +1,15 @@
+vless://bm9uZTplZGUyZjkxYi04M2IxLTQ3ZTYtOTlhYS0xYjIzMWFlN2UzOTJANGd2aWV0dGVsLmR1Y2tkbnMub3JnOjQ0Mw?remarks=%F0%9F%9A%80Viettel%F0%9F%9A%AB443%F0%9F%87%BB%F0%9F%87%B3&obfs=none&tls=1&peer=m.tiktok.com&pbk=0wjBOi4kcsxk9wNZk-0VAbmzYTCU6Jql9tEiN3FrI1I&sid=67743bf7
+#
+vmess://YXV0bzowNDRiMmY4OS1lODEyLTRkNzMtOTE2Ni0xNWYxZTRmZTgwOGZANGd2aWV0dGVsLmR1Y2tkbnMub3JnOjgw?remarks=%F0%9F%9A%80Viettel%F0%9F%9A%AB80%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/&obfs=http&alterId=0
+#
+vmess://YXV0bzo5NDU1ZmFjNC02YTM3LTRhYzMtYmQ0NC1hMTdkMDJjMjlmMGZAbm90aGluZy56YWtzaGluLmlvLnZuOjgw?remarks=Zakshin80-Openwrt1&obfsParam=m.tiktok.com&path=/&obfs=websocket&alterId=0
+#
+vless://YXV0bzpiZDJlYzJmMS03NWZlLTRkZDAtODUxZC04YmQ5NTQ0Nzg3MjdAbm90aGluZy56YWtzaGluLmlvLnZuOjQ0Mw?remarks=Zakshin443-Openwrt2&obfs=none&tls=1&peer=m.tiktok.com&allowInsecure=1&alpn=h2,http/1.1,h3
+#
+vmess://YXV0bzo5NTJlOTdkMi0xN2VmLTRlNDItYjhhYS1jOWY4OTJjYTRlZWRAdmlldG5hbS0yLjRnLm1rdm4ubmV0Ojgw?remarks=%F0%9F%9A%80Nam%F0%9F%9A%AB80%F0%9F%87%BB%F0%9F%87%B3&obfsParam=vn.tiktok.com&path=/4g.mkvn.net&obfs=websocket&alterId=0
+#
+vmess://YXV0bzo5NTJlOTdkMi0xN2VmLTRlNDItYjhhYS1jOWY4OTJjYTRlZWRAdmlldG5hbS0xLjRnLm1rdm4ubmV0Ojgw?remarks=%F0%9F%9A%80Viet%F0%9F%9A%AB80%F0%9F%87%BB%F0%9F%87%B3&obfsParam=vn.tiktok.com&path=/4g.mkvn.net&obfs=websocket&alterId=0
+#
 trojan://08c28fcb-cd6d-4234-b4e1-0e2e74db54a0@5hcm1v.5gtocdocao.com:443?allowInsecure=1&sni=m.youtube.com#%5B5%5D%E2%80%BA%20Cloud%20HCMVIP%20-Trojan%F0%9F%87%BB%F0%9F%87%B3
 #
 vmess://eyJwcyI6IvCflLAgU05JOiBtLnlvdXR1YmUuY29tIiwiYWRkIjoiNWlkYzEuNWd0b2Nkb2Nhby5jb20iLCJwb3J0IjoiODAiLCJpZCI6IjA4YzI4ZmNiLWNkNmQtNDIzNC1iNGUxLTBlMmU3NGRiNTRhMCIsImFpZCI6IjAiLCJzY3kiOiIiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im0ueW91dHViZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsImFsbG93SW5zZWN1cmUiOmZhbHNlLCJ2IjoiMiIsInByb3RvY29sIjoidm1lc3MifQ=
